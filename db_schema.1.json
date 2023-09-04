@@ -1,0 +1,15 @@
+{
+    "salt": "string",
+    "passwords": [
+        {
+            "name": "string",
+            "password": "string",
+            "keyword": "string"
+        },
+        {
+            "name": "string",
+            "password": "string",
+            "keyword": "string"
+        }
+    ]
+}
