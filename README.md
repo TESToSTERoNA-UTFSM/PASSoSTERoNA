@@ -1,1 +1,7 @@
-# T1
+Requerimientos:
+
+* cryptography
+  
+    Para instalar utilizaremos lo siguiente:
+
+    ```$ pip install cryptography```
