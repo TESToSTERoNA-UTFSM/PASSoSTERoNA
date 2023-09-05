@@ -3,7 +3,6 @@ from cryptography.fernet import Fernet
 import base64
 import pickle
 from os.path import exists
-import random
 import string
 import sys
 import secrets
